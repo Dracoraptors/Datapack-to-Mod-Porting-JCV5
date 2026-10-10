@@ -1,0 +1,13 @@
+{
+  "itemGroup.justchilladdons": "Example Mod Tab",
+  "block.justchilladdons.example_block": "Example Block",
+  "item.justchilladdons.example_item": "Example Item",
+
+  "justchilladdons.configuration.title": "Just Chill Addons Configs",
+  "justchilladdons.configuration.section.justchilladdons.common.toml": "Just Chill Addons Configs",
+  "justchilladdons.configuration.section.justchilladdons.common.toml.title": "Just Chill Addons Configs",
+  "justchilladdons.configuration.items": "Item List",
+  "justchilladdons.configuration.logDirtBlock": "Log Dirt Block",
+  "justchilladdons.configuration.magicNumberIntroduction": "Magic Number Text",
+  "justchilladdons.configuration.magicNumber": "Magic Number"
+}
